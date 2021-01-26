@@ -104,12 +104,12 @@ namespace CSharpAssignment
             }
             Console.WriteLine("******************************************");
             Console.WriteLine("Satın almak istediğiniz oyunu seçiniz.");
-            //Bu satırdan sonrasında işi biraz etkileşimi yapmak istedim.
-            //Try-Catch-Finaly yapısında Try-Catch yapısını kullandım.
+            //Bu satırdan sonrasında işi biraz etkileşimli yapmak istedim.
+            //Try-Catch-Finaly yapısından Try-Catch yapısını kullandım.
             //Try-Catch kullanma sebebim programsal olarak hata olduğunda program sonlanmadan kullanıcıya uyarıda bulunmak için.
             //Goto ise belirtilen seçimler dışında kullanıcı farklı seçim yaparsa hata mesajı verildikten sonra tekrardan seçim yapmasını sağladım.
             //Burada oyuncuyu ben belirledim dışarıdan seçtirmedim.
-            //Ancak oyun seçimini ve akabinde var olan kampanya seçimini kullanıdan aldım.
+            //Ancak oyun seçimini ve akabinde var olan kampanya seçimini kullanıcıdan aldım.
 
         Tekrar:
             int gamesecim = 0;
