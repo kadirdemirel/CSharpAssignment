@@ -18,6 +18,7 @@ Gereksinimler
 Burada program çalıştırıldığında yapılan seçimlerin ekran görüntülerini ekledim. Program ilk açıldığında ekran sırayla önce Oyuncu Listesi sıralanır daha sonra benim backend tarafında belirlediğim oyuncu Mernis ile kontrol sağlanarak kayıt işlemi yapılır ardından kampanya listesi ve oyunların listesi gösterilir. Sonra satın alınmasını istediğimiz oyun için belirtilen seçeneklerden istenilen birine basılır.
 
 ![Ekran Fotoğrafı](images/goruntu1.png)
+
 Oyun seçimi yaptıktan onra uygun kampanya listesi tekrar karşımıza gelir ve seçim yapmamızı ister.
 
 ![](images/goruntu2.png)
