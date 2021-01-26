@@ -14,7 +14,7 @@ Gereksinimler
 4-)	Satışlarda kampanya entegrasyonunu simule ediniz.
 
 5-) Ödevinizi Github’a yükleyiniz. Github linkinizi paylaşınız.
-
+# 
 Burada program çalıştırıldığında yapılan seçimlerin ekran görüntülerini ekledim. Program ilk açıldığında ekran sırayla önce Oyuncu Listesi sıralanır daha sonra benim backend tarafında belirlediğim oyuncu Mernis ile kontrol sağlanarak kayıt işlemi yapılır ardından kampanya listesi ve oyunların listesi gösterilir. Sonra satın alınmasını istediğimiz oyun için belirtilen seçeneklerden istenilen birine basılır.
 
 ![](images/goruntu1.PNG)
