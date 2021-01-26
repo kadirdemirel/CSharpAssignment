@@ -27,3 +27,5 @@ Oyun seçimi yaptıktan onra uygun kampanya listesi tekrar karşımıza gelir ve
 Seçim yapıldıktan sonra satın alınan oyun,satış tutarı,indirim oranı,oyunu satan oyuncunun adı ve kampanya adı kullanıcıya yazdırılır.
 
 ![](images/goruntu3.PNG) 
+
+Ve proje burada sonlanır.
